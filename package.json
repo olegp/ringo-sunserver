@@ -1,0 +1,8 @@
+{
+    "name": "sunserver",
+    "version": "0.1.0",
+    "description": "JSGI connector for Sun's HTTP server",
+    "keywords": ["commonjs", "jsgi"],
+    "author": "Oleg Podsechin (http://github.com/olegp) <oleg@ionsquare.com>",
+    "main": "./lib/sunserver.js"
+}
